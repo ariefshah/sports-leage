@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ContosoSportsLeague-Web.config Connection String" description="ContosoSportsLeague Connection String used in web.config by the application to access the database." defaultValue="{SQL Database Connection String Here}" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="\\\\Mac\\Home\\Downloads\\Modern\ Cloud\ Apps\ Student\ Files\\Contoso\ Sports\ League\\Contoso\.Apps\.SportsLeague\.Admin\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ContosoSportsLeague']/@connectionString" />
+  </parameter>
+</parameters>

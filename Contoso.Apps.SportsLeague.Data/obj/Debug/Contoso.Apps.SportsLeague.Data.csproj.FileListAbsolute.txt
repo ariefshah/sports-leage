@@ -1,0 +1,21 @@
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.dll.config
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.dll
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.pdb
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.dll
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.xml
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.csprojResolveAssemblyReference.cache
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.dll
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.pdb
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.dll.config
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.dll
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.pdb
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.dll
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.xml
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.csproj.CopyComplete
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.dll
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.pdb

@@ -1,0 +1,6 @@
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.Common\bin\Release\Contoso.Apps.Common.dll
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.Common\bin\Release\Contoso.Apps.Common.pdb
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.Common\obj\Release\Contoso.Apps.Common.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.Common\obj\Release\Contoso.Apps.Common.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.Common\obj\Release\Contoso.Apps.Common.dll
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.Common\obj\Release\Contoso.Apps.Common.pdb

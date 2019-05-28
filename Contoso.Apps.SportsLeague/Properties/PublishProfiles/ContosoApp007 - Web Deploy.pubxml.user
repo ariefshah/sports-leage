@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAKcahHeuQKkybRjc/B/VUiQAAAAACAAAAAAAQZgAAAAEAACAAAACbajT/2+PLR8Fy91ZKl17lxsvb1rh3YYkftd3smckX5gAAAAAOgAAAAAIAACAAAADW9KPBT+vUjzicLCDTjRidEpDNqCZshrVyrruiD1gXbIAAAACLp6UbWXnngIiLEn7z1cdOmgCWWZLo77Xja9Q2I2qToJaaxzHv/tgVx9AVxVp2BgiCP4cXg9reqzWJyJG/LQKLDmJGr2Bw/FFSZ7UEND5KKNVzjKkT3kFstKgGj7N4E4vRbAIR6KvLj3Nm06B4R/5FrvYPq4qSG98odThNQIF+WUAAAABfSIHDX0ylmQOrdcnH7dVUQOHZpJ5zE9PhMwxUFzIHYyjM2nMb5bPUOvzpEX9Ld5fv2prjzNCpj0l9YZ6LEUWH</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=tcp:contonsosql007.database.windows.net,1433;Initial Catalog=ContosoSportsDB;User Id=demouser@contonsosql007.database.windows.net;Password=Password.1!!" />
+    <AzureDBConnectionStrings Include="Server=tcp:contonsosql007.database.windows.net,1433;Initial Catalog=ContosoSportsDB;Persist Security Info=False;User ID=demouser;Password=Password.1!!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30" />
+  </ItemGroup>
+</Project>

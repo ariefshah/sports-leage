@@ -1,0 +1,10 @@
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.dll
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.pdb
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.csprojResolveAssemblyReference.cache
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.dll
+C:\hackathon\moderncloudapps-new\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.pdb
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.dll
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.pdb
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.dll
+\\Mac\Home\Downloads\Modern Cloud Apps Student Files\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.pdb
